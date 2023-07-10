@@ -2,6 +2,7 @@ Milk
 Bread
 Bananas
 Eggs
-Corn
 Apples
 Bananas
+Nutriberries
+Timothy Hay
