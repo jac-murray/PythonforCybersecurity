@@ -10,4 +10,4 @@
 user_name = input("What is your name? ")
 
 #Print hello and name
-print("Hello {0}".format(user_name))
+print(f"Hello {user_name}, I hope you're having a wonderful day.")
