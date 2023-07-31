@@ -20,7 +20,7 @@ def test_password(algoritm_salt, hashed_password, password_guess):
 
 # Load dictionary file
 dir_path = os.path.dirname(os.path.realpath(__file__))
-f = open(dir_path + "/top10.txt", "r")
+f = open(dir_path + "/top1000.txt", "r")
 passwords = f.readlines()
 
 # Prompt user for Algorithm/salt
