@@ -1,3 +1,7 @@
+# third tkinter script
+# Dad Joke in new Window
+# Create by Jac 8/22/2023
+
 import tkinter as tk
 import requests
 

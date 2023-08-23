@@ -1,5 +1,5 @@
 # third tkinter script
-# Get people in space
+# Dad joke
 # Create by Jac 8/22/2023 
 
 import tkinter as tk
